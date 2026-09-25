@@ -33,4 +33,4 @@ powershell.exe Set-MpPreference -DisableIOAVProtection $false
 echo ===================================================
 echo   تمت استعادة الإعدادات بنجاح. يرجى إعادة تشغيل الجهاز.
 echo ===================================================
-pause
+pause 
